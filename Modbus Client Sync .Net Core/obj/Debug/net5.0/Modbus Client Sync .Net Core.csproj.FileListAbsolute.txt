@@ -1,0 +1,15 @@
+C:\Users\i5\source\repos\Modbus Client Sync .Net Core\Modbus Client Sync .Net Core\bin\Debug\net5.0\Modbus Client Sync .Net Core.exe
+C:\Users\i5\source\repos\Modbus Client Sync .Net Core\Modbus Client Sync .Net Core\bin\Debug\net5.0\Modbus Client Sync .Net Core.deps.json
+C:\Users\i5\source\repos\Modbus Client Sync .Net Core\Modbus Client Sync .Net Core\bin\Debug\net5.0\Modbus Client Sync .Net Core.runtimeconfig.json
+C:\Users\i5\source\repos\Modbus Client Sync .Net Core\Modbus Client Sync .Net Core\bin\Debug\net5.0\Modbus Client Sync .Net Core.runtimeconfig.dev.json
+C:\Users\i5\source\repos\Modbus Client Sync .Net Core\Modbus Client Sync .Net Core\bin\Debug\net5.0\Modbus Client Sync .Net Core.dll
+C:\Users\i5\source\repos\Modbus Client Sync .Net Core\Modbus Client Sync .Net Core\bin\Debug\net5.0\ref\Modbus Client Sync .Net Core.dll
+C:\Users\i5\source\repos\Modbus Client Sync .Net Core\Modbus Client Sync .Net Core\bin\Debug\net5.0\Modbus Client Sync .Net Core.pdb
+C:\Users\i5\source\repos\Modbus Client Sync .Net Core\Modbus Client Sync .Net Core\obj\Debug\net5.0\Modbus Client Sync .Net Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i5\source\repos\Modbus Client Sync .Net Core\Modbus Client Sync .Net Core\obj\Debug\net5.0\Modbus Client Sync .Net Core.AssemblyInfoInputs.cache
+C:\Users\i5\source\repos\Modbus Client Sync .Net Core\Modbus Client Sync .Net Core\obj\Debug\net5.0\Modbus Client Sync .Net Core.AssemblyInfo.cs
+C:\Users\i5\source\repos\Modbus Client Sync .Net Core\Modbus Client Sync .Net Core\obj\Debug\net5.0\Modbus Client Sync .Net Core.csproj.CoreCompileInputs.cache
+C:\Users\i5\source\repos\Modbus Client Sync .Net Core\Modbus Client Sync .Net Core\obj\Debug\net5.0\Modbus Client Sync .Net Core.dll
+C:\Users\i5\source\repos\Modbus Client Sync .Net Core\Modbus Client Sync .Net Core\obj\Debug\net5.0\ref\Modbus Client Sync .Net Core.dll
+C:\Users\i5\source\repos\Modbus Client Sync .Net Core\Modbus Client Sync .Net Core\obj\Debug\net5.0\Modbus Client Sync .Net Core.pdb
+C:\Users\i5\source\repos\Modbus Client Sync .Net Core\Modbus Client Sync .Net Core\obj\Debug\net5.0\Modbus Client Sync .Net Core.genruntimeconfig.cache
