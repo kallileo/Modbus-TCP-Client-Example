@@ -68,7 +68,7 @@ namespace Modbus_Client_Sync_.Net_Core
                     Console.WriteLine("Modbus function code (1 byte): {0} ", responseMsg[7]);
                     Console.WriteLine("Byte count (1 byte): {0} ", responseMsg[8]);
                     Console.WriteLine("Holding register 40000 (2 bytes): {0} {1} ", responseMsg[9], responseMsg[10]);
-                    Console.WriteLine("Holding register 40001 (2 bytes): {0} {1} ", responseMsg[10], responseMsg[12]);
+                    Console.WriteLine("Holding register 40001 (2 bytes): {0} {1} ", responseMsg[11], responseMsg[12]);
                     Console.WriteLine("Holding register 40002 (2 bytes): {0} {1} ", responseMsg[13], responseMsg[14]);
                     Console.WriteLine("Holding register 40003 (2 bytes): {0} {1} ", responseMsg[15], responseMsg[16]);
                     Console.WriteLine("Holding register 40004 (2 bytes): {0} {1} ", responseMsg[17], responseMsg[18]);
